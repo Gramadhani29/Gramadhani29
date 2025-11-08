@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Gilang
 
-<!--
-**Gramadhani29/Gramadhani29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 **Web Application Development Lab Assistant** at Telkom University — teaching **frontend & Laravel** to 4th-semester students
+  → Courses: *Basic JavaScript, Basic C, Cloud Practitioner Essentials*
+- 👯 Open to **frontend, Laravel, or UI/UX open-source collaborations**
+- ⚡ Fun fact: Built **3 full-stack apps** with Laravel + vanilla JS/HTML during lab modules
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 🛠️ Tech Stack
+```text
+Frontend   : HTML, CSS, JavaScript, Laravel Blade, Tailwind (learning)
+Backend    : PHP, Laravel (CRUD, Middleware, API)
+Tools      : Git, VS Code, Figma, Postman
+Database   : MySQL
+Cloud      : AWS (Cloud Practitioner certified)
