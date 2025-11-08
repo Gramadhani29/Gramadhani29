@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🔭 **Web Application Development Lab Assistant** at Telkom University — teaching **frontend & Laravel** to 4th-semester students
-  → Courses: *Basic JavaScript, Basic C, Cloud Practitioner Essentials*
+  → Courses: *Laravel ,Basic JavaScript, Basic MySQL*
 - 👯 Open to **frontend, Laravel, or UI/UX open-source collaborations**
 - ⚡ Fun fact: Built **3 full-stack apps** with Laravel + Tailwind JS/HTML during lab modules
 
