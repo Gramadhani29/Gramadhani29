@@ -4,12 +4,13 @@
 - 🔭 **Web Application Development Lab Assistant** at Telkom University — teaching **frontend & Laravel** to 4th-semester students
   → Courses: *Basic JavaScript, Basic C, Cloud Practitioner Essentials*
 - 👯 Open to **frontend, Laravel, or UI/UX open-source collaborations**
-- ⚡ Fun fact: Built **3 full-stack apps** with Laravel + vanilla JS/HTML during lab modules
+- ⚡ Fun fact: Built **3 full-stack apps** with Laravel + Tailwind JS/HTML during lab modules
 
-  ## 🛠️ Tech Stack
-```text
-Frontend   : HTML, CSS, JavaScript, Laravel Blade, Tailwind (learning)
-Backend    : PHP, Laravel (CRUD, Middleware, API)
-Tools      : Git, VS Code, Figma, Postman
-Database   : MySQL
-Cloud      : AWS (Cloud Practitioner certified)
+## 🚀 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilangramadhani/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gilang.alifianto@gmail.com)&nbsp;
+
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,laravel,tailwind,php,kotlin,git,vscode,figma,postman,mysql&perline=7)]()
+
